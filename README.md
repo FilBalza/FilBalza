@@ -45,7 +45,7 @@ Applied neural-network ensemble uncertainty estimates to improve interpretabilit
 
 ---
 
-## 🎯 Other Interests and Hobbies
+## 🎯 My Interests
 - Teaching and mentoring, because explaining things is the best way to learn them
 - Quantum computing, learning how to correct qubits that refuse to behave
 - Competitive Pokémon, a mix of strategy, probabilities, and questionable life choices
