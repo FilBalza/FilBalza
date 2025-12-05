@@ -45,13 +45,10 @@ Applied neural-network ensemble uncertainty estimates to improve interpretabilit
 
 ---
 
-## 🎯 Interests
-- Quantum-chemistry method development  
-- ML-accelerated materials modeling  
-- Surface science and heterogeneous catalysis  
-- High-throughput workflows  
-- Open-source scientific software  
-- Teaching and mentoring in computational chemistry and Python  
+## 🎯 Other Interests and Hobbies
+- Teaching and mentoring, because explaining things is the best way to learn them
+- Quantum computing, learning how to correct qubits that refuse to behave
+- Competitive Pokémon, a mix of strategy, probabilities, and questionable life choices
 
 ---
 
