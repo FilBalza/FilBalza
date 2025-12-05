@@ -16,7 +16,7 @@ I recently started my open-source journey and I take it seriously, building tool
 ## ⚙️ Technical Skills
 
 ### **Machine Learning & MLIPs**
-MACE • UMA • CHGNet • M3GNet • PyTorch • Scikit-learn • Active-learning pipelines • Δ-ML workflows
+MACE • UMA • CHGNet • M3GNet • PyTorch • Active-learning pipelines • Δ-ML workflows
 
 ### **Electronic-Structure & Atomistic Modeling**
 VASP • Quantum Espresso • DFTB+ • FHI-aims • GPAW • ASE
